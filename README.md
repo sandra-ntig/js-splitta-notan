@@ -11,6 +11,6 @@ Splitta notan räknar ut hur mycket varje vän ska betala på exempelvis en rest
    2. Visa resultatet i elementet med id="friendSum"
    3. Dölj elementet med id="inputForm" och visa elementet med id="ShowSum". Använd av document.getElementByID("lämpligt ID").classList.toggle('hide') som lägger till/tar bort klassnamnet på/från elementet, d.v.s togglar. I css ska du använda .hide {display: node} som döljer ett element.
 4. Styla formuläret för mobil. Jag förväntar mig ett snyggt och användbart UI!
-5. Publicera på Github Pages. Utvärdera din app på din egen mobil!
+5. Publicera på Github Pages (fråga läraren om hjälp). Utvärdera din app på din egen mobil!
 
 Lycka till!
